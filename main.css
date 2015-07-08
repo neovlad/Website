@@ -1,0 +1,15 @@
+.linesev {
+	color:blue;
+	background-color: yellow;
+	padding:auto; 
+	text-align: center;
+}
+.heading{
+	color:#F5F5F5;
+	font-size: 30px;
+	 text-align: center;
+	border-left: 50px;
+	background-image: url("http://i.dailymail.co.uk/i/pix/2014/10/06/1412613364603_wps_17_SANTA_MONICA_CA_AUGUST_04.jpg");
+	background-color: #006200;
+	font-family: arial;
+	}
