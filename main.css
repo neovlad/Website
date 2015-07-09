@@ -1,15 +1,43 @@
+header{background: #678DB2;
+
+}
+body {
+		background:#91BADA; 
+		background-clip: 
+	}
+a{
+	color:white;
+}
+body li {
+	float: left;
+	border-radius: 5px;
+	padding :7px;
+	margin-left: 5px;
+	white-space: 3px;
+	display:inline-block;
+	background-size: 13px,500px;
+	background-color: #555;
+
+}
 .linesev {
 	color:blue;
 	background-color: yellow;
-	padding:auto; 
+	 
 	text-align: center;
 }
-.heading{
+h1{
 	color:#F5F5F5;
+	padding-top: 20px;
+	padding-left:40px;
+	padding-bottom: 0px;
 	font-size: 30px;
-	 text-align: center;
+	
 	border-left: 50px;
-	background-image: url("http://i.dailymail.co.uk/i/pix/2014/10/06/1412613364603_wps_17_SANTA_MONICA_CA_AUGUST_04.jpg");
-	background-color: #006200;
+	white-space:20px;
+	
 	font-family: arial;
 	}
+	h3{
+		text-align: center;
+	}
+	
